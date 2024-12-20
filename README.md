@@ -31,13 +31,13 @@ Publish the website in the given URL.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive CAR Gallery</title>
+    <title> Interactive Car Gallery</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: rgb(43, 136, 180);
+            background-color: rgb(244, 247, 63);
         }
 
         .gallery {
@@ -67,7 +67,7 @@ Publish the website in the given URL.
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(67, 145, 166, 0.8);
+            background: rgb(232, 229, 62);
             justify-content: center;
             align-items: center;
             z-index: 1000;
