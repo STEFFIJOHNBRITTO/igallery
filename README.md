@@ -1,5 +1,5 @@
 # Ex.08 Design of Interative Image Gallery
-## Date:18.12.2024
+## Date:20.12.2024
  
  ## AIM:
  To design a web application for an interactive image gallery with minimum five images.
