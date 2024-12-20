@@ -88,9 +88,11 @@ Publish the website in the given URL.
             cursor: pointer;
         }
         footer {
+            position: fixed;
             text-align: center;
             font-size: 16px;
-            margin-top: 40px; 
+            bottom: 0;
+            width: 100%; 
             color: rgb(1, 1, 1);
         }
 
@@ -147,8 +149,8 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot (102).png>)
-![alt text](<Screenshot (103).png>)
+![alt text](<Screenshot (109).png>)
+![alt text](<Screenshot (110).png>)
 
 
 ## RESULT:
